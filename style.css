@@ -1,0 +1,179 @@
+/* style.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #92E0E5;
+}
+
+
+.icon {
+    width: 50px;
+    height: auto;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.navbar {
+    display:inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+.navlist {
+    font-size: 16px;
+    padding-top: 18px;
+    display:inline-block;
+    margin-right: 15px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.nav-list-text {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    padding: 25px 0px 25px 0px;
+    font-family: 'Roboto', Sans-Serif;
+    text-align:center;
+    font-weight: 300;
+}
+.park {
+    background-image: url(dog-party-assets/park.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+}
+
+.aussie {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 17px;
+    /*padding: 0px;*/
+    border-radius: 150px;
+    border: solid #3F8DA7;
+    width: 200px;
+    
+}
+
+.push {
+    display: block;
+    margin: auto;
+    padding: 5px 10px;
+    border: solid #3F8DA7;
+    background-color: white;
+    color: #3F8DA7;
+    
+}
+
+.info {
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+h4 {
+    font-family: 'Roboto', Sans-Serif;
+    text-align:center;
+    font-weight: 300;
+    margin-top: 30px;
+    size: 14;
+}
+.how {
+    font-family: 'Roboto', Sans-Serif;
+    text-align: center;
+    font-weight: 300;
+    display:inline-block;
+    width: 31%;
+    margin-left: 30px;
+    vertical-align: center;
+}
+.yellow-dog {
+    margin: 15px 10px 10px 10px;
+    border-radius: 150px;
+    border: solid #3F8DA7;
+    width: 150px;
+}
+#how-text {
+    padding-bottom: 20px;
+    margin: 12px;
+}
+.what {
+    font-family: 'Roboto', Sans-Serif;
+    text-align:center;
+    font-weight: 300;
+    display:inline-block;
+    width: 31%;
+    /*position: relative;*/
+    /*margin-left: 30px;*/
+    vertical-align: center;
+    
+}
+#what-text {
+    padding-bottom: 20px;
+    margin: 12px;
+}
+.grey-dog {
+    margin: 15px 10px 10px 10px;
+    border-radius: 150px;
+    border: solid #3F8DA7;
+    width: 150px;
+}
+.facts {
+    font-family: 'Roboto', Sans-Serif;
+    text-align:center;
+    font-weight: 300;
+    display:inline-block;
+    width: 31%;
+    vertical-align: center;
+}
+#facts-text {
+    padding-bottom: 20px;
+    margin: 12px;
+}
+.green-dog {
+    margin: 15px 10px 10px 10px;
+    border-radius: 150px;
+    border: solid #3F8DA7;
+    width: 150px;
+}
+.social {
+    font-family: Helvetica, Sans-Serif;
+    color: white;
+    text-align: center;
+    height: 175px;
+    background-color: #3F8DA7;
+}
+.learn {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.facebook {
+    padding: 10px;
+    vertical-align: center;
+}
+.twitter {
+    padding: 10px 10px 10px 20px;
+    vertical-align: center;
+}
+.instagram {
+    padding: 10px 10px 10px 20px;
+    vertical-align: center;
+}
+.linkedin {
+    padding: 10px 10px 10px 20px;
+    vertical-align: center;
+}
+.github {
+    padding-top: 20px;
+    
+}
+.github-link {
+    font-family: 'Roboto';
+    font-size: 10;
+    color: white;
+}
